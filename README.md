@@ -73,12 +73,12 @@ I'm always open to exploring new opportunities and collaborations that push the 
 <br/>
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=luizaugustomelo&theme=dracula)](https://github.com/LuizAugustoMelo)
+[![iuricode](https://github-stats-extended.vercel.app/api?username=luizaugustomelo&theme=dracula)](https://github.com/LuizAugustoMelo)
 
 <br/>
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=luizaugustomelo&hide=html&layout=compact&theme=dracula)](https://github.com/LuizAugustoMelo)
+[![iuricode](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=luizaugustomelo&hide=html&layout=compact&theme=dracula)](https://github.com/LuizAugustoMelo)
 
 ## Where to find me
 
